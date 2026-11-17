@@ -1,0 +1,19 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Scraper output
+/docker-volume/
+/target/
+
+# Local secrets
+.env
+*.env
+!*.env.example
+
+# IDE
+.idea/

@@ -1,0 +1,15 @@
+.git
+.gitignore
+.dockerignore
+.idea
+venv
+.venv
+__pycache__
+*.py[cod]
+docker-volume
+target
+.env
+*.env
+!*.env.example
+AGENTS.md
+Dockerfile
